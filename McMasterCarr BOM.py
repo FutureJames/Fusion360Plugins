@@ -49,7 +49,7 @@ def run(context):
                         volume += bodyK.volume
                 
 
-                pattern = r'^9[^_]{8}'
+                pattern = r'\d*[A-Z]\d{1,3}_.*$'
                 if re.search(pattern, comp.name) is not None:
                     # Add this component to the BOM
                     bom.append({
