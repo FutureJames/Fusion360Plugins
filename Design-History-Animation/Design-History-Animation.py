@@ -1,5 +1,6 @@
-#Author-Amanda Ghassaei
-#Description-Turn your Fusion360 design history timeline into an animation
+#Author-James Adams
+#based on work from-Amanda Ghassaei
+#Description-Use Design History Timeline to generate a series of images to be used in animation
 
 import adsk.core, adsk.fusion, traceback, math, os
 
