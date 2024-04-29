@@ -50,6 +50,8 @@ class CommandExecuteHandler(adsk.core.CommandEventHandler):
 
             timelapse.createFfmpegScript(timelapse._toolName, timelapse.outputPath, timelapse.filename)
 
+            ui.messageBox('Timelapse Complete!')
+
             args.isValidResult = True
         except:
             if ui:
