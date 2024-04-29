@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"",
+	"description":	{
+		"":	"Create a Bill of Materials for ordering"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}

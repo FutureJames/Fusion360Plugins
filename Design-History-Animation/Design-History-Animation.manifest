@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"James Adams",
+	"description":	{
+		"":	"Use Design History Timeline to generate a series of images to be used in animation"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}

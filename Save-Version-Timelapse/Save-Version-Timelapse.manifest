@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"James Adams",
+	"description":	{
+		"":	"Use a snapshot of each saved version of a design to generate a series of images for use in animation"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}

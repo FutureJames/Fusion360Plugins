@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"James Adams",
+	"description":	{
+		"":	"Rotate a design around the Z-Axis and generate animation frames"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}

@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"James Adams",
+	"description":	{
+		"":	"Print current camera state for debugging"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
